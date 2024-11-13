@@ -48,7 +48,7 @@ Este proyecto es un portafolio profesional interactivo que muestra mi formación
 ## 🚀 Instalación | Installation
 1. Clona este repositorio | Clone this repository
 ```bash
-git clone [URL-del-repositorio]
+git clone https://github.com/JUANCITOPENA/MI_TOP_APRENDIZAJE.git
 ```
 2. Abre el archivo index.html en tu navegador | Open index.html in your browser
 
